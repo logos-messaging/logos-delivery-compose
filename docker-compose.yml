@@ -25,7 +25,7 @@ x-pg-exporter-env: &pg_exp_env
 # Services definitions
 services:
   logos-messaging-node:
-    image: ${NWAKU_IMAGE:-harbor.status.im/wakuorg/nwaku:v0.37.0-beta}
+    image: ${NWAKU_IMAGE:-harbor.status.im/wakuorg/nwaku:v0.38.0}
     restart: on-failure
     ports:
       - 30304:30304/tcp
