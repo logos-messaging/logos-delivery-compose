@@ -3,3 +3,4 @@
 keystore
 postgresql
 .env
+/data/
