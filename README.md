@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository is no longer maintained.**
+>
+> The docker compose setup now lives in the [`logos-delivery`](https://github.com/logos-messaging/logos-delivery) repository, under
+> [`apps/logos_delivery_node/docker/`](https://github.com/logos-messaging/logos-delivery/tree/master/apps/logos_delivery_node/docker).
+> Please use that version — it tracks the node implementation and runs the `logosdeliverynode` image.
+
 # logos-messaging-nim-compose
 
 Ready‑to‑use **docker compose** stack for running your own [Logos Messaging](https://github.com/logos-messaging/logos-messaging-nim) node.
